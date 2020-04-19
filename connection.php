@@ -1,5 +1,5 @@
 <?php
- $conn = new mysqli("localhost","akanksha","Prakhar2105","form");
+ $conn = new mysqli("localhost","username","password","form");
 
 
 ?>
